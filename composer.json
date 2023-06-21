@@ -14,8 +14,7 @@
   },
   "require": {
     "php": ">=5.4.0",
-    "yiisoft/yii2": "~2",
-    "koala-framework/composer-extra-assets": "~1.1"
+    "yiisoft/yii2": "~2"
   },
   "extra": {
     "require-npm": {
